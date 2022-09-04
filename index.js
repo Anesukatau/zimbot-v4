@@ -74,7 +74,7 @@ async function startZimBotInc() {
     const ZimBotInc = ZimBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['SUB DRIPS OFC','Ubuntu','20.0.04'],
+        browser: ['SUB UZZI OFC','Ubuntu','20.0.04'],
         auth: state,
         
     })
